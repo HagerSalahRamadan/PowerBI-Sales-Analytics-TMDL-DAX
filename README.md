@@ -57,7 +57,7 @@ measure 'YoY Growth %' = DIVIDE([Total Revenue] - [Revenue PY], [Revenue PY], 0)
 * **Business Intelligence:** Power BI Desktop
 * **Data Processing & Transformation:** Power Query (M Language)
 * **Semantic Modeling:** TMDL View, DAX (Data Analysis Expressions)
-* **UI/UX Design:** Soft Card Theme (`#48293E` Primary Palette, Custom KPI Cards, Dynamic Visual Hierarchy)
+* **UI/UX Design:** Soft Card Theme ( Custom KPI Cards, Dynamic Visual Hierarchy)
 * **Data Source:** `Task_2_Power_Query_TMDL_Calendar_Data.xlsx`
 
 ---
